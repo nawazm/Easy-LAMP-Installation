@@ -7,20 +7,33 @@ How to use it:
 -------------
 
 Download the following shell script on your Ubuntu server or clone it with the following command.
+
 ```
-git clone https://github.com/arbabnazar/Automated-LAMP-Installation.git
+git clone https://github.com/nawazm/Easy-LAMP-Installation.git
 ```
 Give the execution right to it.
 ------------------------------
 ```
 chmod +x install.sh
 ```
-Then run it as sudo user.
+
+OR
+
+```
+chmod +x install7.2.sh
+```
+
+Then to install latest PHP version run it as sudo user.
 -------------------------
 ```
 sudo ./install.sh
 ```
 
+for PHP7.2, go with install7.2.sh
+-------------------------
+```
+sudo ./install7.2.sh
+```
 
 How to uninstall:
 -------------
