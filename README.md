@@ -1,7 +1,7 @@
 Easy-LAMP-Installation on Ubuntu
 ===========================
 
-This shell script will install (and uninstall) the LAMP Stack automatically on Ubuntu server
+This shell script will install (and uninstall) the LAMP Stack automatically on Ubuntu OS
 
 How to use it:
 -------------
